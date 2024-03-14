@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "600181109047",
+    "firebase_url": "https://uber-ola-and-indriver-cl-f52f8-default-rtdb.firebaseio.com",
+    "project_id": "uber-ola-and-indriver-cl-f52f8",
+    "storage_bucket": "uber-ola-and-indriver-cl-f52f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600181109047:android:3af3aa6413a1a691f7aab2",
+        "android_client_info": {
+          "package_name": "com.example.testingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600181109047-621oegm5h2rjmj6s6nibra7q6du6rfhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpQrZYTZ5svF1LAeXC9r0RiOoyhYOMWFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600181109047-621oegm5h2rjmj6s6nibra7q6du6rfhf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600181109047-6pmtv1fuddssbuhk3hs2k9r7fnn88pc1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kahr.driversapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600181109047:android:8baad9a09b56b28ef7aab2",
+        "android_client_info": {
+          "package_name": "com.kahr.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600181109047-621oegm5h2rjmj6s6nibra7q6du6rfhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpQrZYTZ5svF1LAeXC9r0RiOoyhYOMWFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600181109047-621oegm5h2rjmj6s6nibra7q6du6rfhf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600181109047-6pmtv1fuddssbuhk3hs2k9r7fnn88pc1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kahr.driversapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600181109047:android:61b51d55b2c48413f7aab2",
+        "android_client_info": {
+          "package_name": "com.kahr.mkcjm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600181109047-621oegm5h2rjmj6s6nibra7q6du6rfhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpQrZYTZ5svF1LAeXC9r0RiOoyhYOMWFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600181109047-621oegm5h2rjmj6s6nibra7q6du6rfhf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600181109047-6pmtv1fuddssbuhk3hs2k9r7fnn88pc1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kahr.driversapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600181109047:android:45fa7d6a4dd26179f7aab2",
+        "android_client_info": {
+          "package_name": "com.kahr.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600181109047-621oegm5h2rjmj6s6nibra7q6du6rfhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpQrZYTZ5svF1LAeXC9r0RiOoyhYOMWFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600181109047-621oegm5h2rjmj6s6nibra7q6du6rfhf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600181109047-6pmtv1fuddssbuhk3hs2k9r7fnn88pc1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kahr.driversapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

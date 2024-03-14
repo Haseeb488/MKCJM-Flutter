@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>600181109047-jqc055b9k94kk97r391ucc888r24ogpa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.600181109047-jqc055b9k94kk97r391ucc888r24ogpa</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDKG_vOX_gytlRYsX-VS-1tzf8fizmf5jA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>600181109047</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kahr.mkcjm</string>
+	<key>PROJECT_ID</key>
+	<string>uber-ola-and-indriver-cl-f52f8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>uber-ola-and-indriver-cl-f52f8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:600181109047:ios:a39fac5b76b7ebabf7aab2</string>
+	<key>DATABASE_URL</key>
+	<string>https://uber-ola-and-indriver-cl-f52f8-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
